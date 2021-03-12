@@ -1,0 +1,28 @@
+.green {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50%;
+  margin-left: 100px;
+}
+
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50%;
+  margin-left: 100px;
+}
+
+.hideButton {
+  width: 150px;
+  height: 30px;
+  margin-left: -8px;
+}
+
+.warning {
+  background-color: red;
+  height: 50px;
+  text-align: center;
+  color: white;
+}
